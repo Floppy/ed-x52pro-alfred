@@ -18,9 +18,11 @@ There are two commands:
 
 ## Configuration
 
-To change the light config, go into the workflow editor in Alfred preferences, 
+To change the button colours, go into the workflow editor in Alfred preferences, 
 open up the Elite workflow, and configure the bash script attached to the `elite`
-command. You can set the colour of each LED to either `red`, `green` or `amber`,
+command.
+
+You can set the colour of each LED to either `red`, `green` or `amber`,
 and edit the text on the throttle display however you like.
 
 For more information see the [HotasCtrl](https://github.com/webbasan/HotasCtrl) README.
