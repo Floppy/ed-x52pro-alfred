@@ -5,7 +5,7 @@ a Saitek X52 Pro, and launching Elite: Dangerous.
 
 ## Installation
 
-Download from http://floppy.org.uk/ed-x52pro-alfred, and double click the 
+Download [here](http://floppy.org.uk/ed-x52pro-alfred/Elite with X52 Pro.alfredworkflow), and double click the 
 downloaded file to load into Alfred.
 
 ## Usage
